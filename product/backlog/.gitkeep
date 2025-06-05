@@ -1,0 +1,2 @@
+# This file ensures the backlog directory is tracked in git
+# Generated epics will be placed here when epic-generator is executed
